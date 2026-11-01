@@ -109,6 +109,10 @@ article {
     width: 100%;
 }
 
+h2 {
+    font-size: 25px;
+}
+
 .tuote {
     background-color: gainsboro;
     width: calc(100% / 3);
